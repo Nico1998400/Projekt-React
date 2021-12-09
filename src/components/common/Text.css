@@ -1,0 +1,19 @@
+.header-title {
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+.header-subtitle {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.subtitleitalic {
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.header-subtitle-2 {
+    font-size: bold;
+}

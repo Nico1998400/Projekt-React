@@ -1,0 +1,52 @@
+.contact-wrapper {
+    padding: 0rem 5rem 5rem 5rem;
+}
+
+.contact-section{
+    border-radius: 1rem;
+    padding: 5rem;
+    background-color: rgb(150, 225, 250);
+}
+
+.underline {
+    border: none;
+    height: 0.2rem;
+    background: black;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.subtile-contact {
+    margin-bottom: 1rem;
+}
+
+.textarea {
+    border-radius: 1rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+    resize: none;
+}
+
+.contact-right {
+    text-align: center;
+}
+
+.button-rendering {
+    border: none;
+    background-color: #396291;
+    color: white;
+    border-radius: 100vw;
+    padding: 0.5rem 2rem;
+}
+
+.button-rendering:hover {
+    cursor: pointer;
+    background-color: #19385c;
+}
+
+.contact-section {
+    
+}

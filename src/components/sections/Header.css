@@ -1,0 +1,31 @@
+.nav-menu-container {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.747);
+    height: 3rem;
+    width: 100%;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Montserrat", sans-serif;
+    list-style: none;
+    font-weight: 700;
+}
+
+.navbar-text {
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar-text:hover {
+    transition: 0.5s;
+    color: rgb(148, 148, 148);
+}
+
+.active {
+    color: rgb(148, 148, 148);
+}

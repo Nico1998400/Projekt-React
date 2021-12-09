@@ -1,0 +1,20 @@
+.font-wrapper {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.font-wrapper a {
+    color: white;
+}
+
+.icons {
+    font-size: 3rem;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.icons:hover {
+    color: rgb(148, 148, 148);
+}
